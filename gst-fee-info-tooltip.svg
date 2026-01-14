@@ -1,0 +1,11 @@
+<svg width="340" height="60" viewBox="0 0 340 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M336 0C338.209 3.22128e-08 340 1.79086 340 4V42.5654C340 44.7745 338.209 46.5654 336 46.5654H9.28516L2.98926 57V46.4355C1.26966 45.9877 9.71915e-05 44.4252 0 42.5654V4C1.35783e-06 1.79086 1.79086 3.22128e-08 4 0H336Z" fill="url(#paint0_linear_gst)"/>
+<text x="170" y="26" font-family="Arial, sans-serif" font-size="11" font-weight="600" fill="white" text-anchor="middle">KwikMedi has no role in the taxes (18%)</text>
+<text x="170" y="41" font-family="Arial, sans-serif" font-size="11" font-weight="600" fill="white" text-anchor="middle">being levied by the government</text>
+<defs>
+<linearGradient id="paint0_linear_gst" x1="170" y1="60" x2="170" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0.745192" stop-color="#0080C7"/>
+<stop offset="1" stop-color="#8BD8F7"/>
+</linearGradient>
+</defs>
+</svg>
